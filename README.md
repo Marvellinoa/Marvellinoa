@@ -7,7 +7,7 @@
 ---
 
 ## 💡 About Me
-I'm an optimistic student from **SMKN 2 Depok** with a passion for:
+I'm a student from **SMKN 2 Depok** with a passion for:
 - 🌐 Web Development (HTML, CSS, TailwindCSS, Bootstrap)
 - 🎨 UI/UX Design using Figma
 - 🎥 Presentation tools like ProPresenter
