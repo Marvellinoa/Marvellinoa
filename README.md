@@ -1,16 +1,16 @@
-## Hi there 👋
+## About Me
 
-<!--
-**Marvellinoa/Marvellinoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm an optimistic student with a passion for web development, UI/UX design, and continuous learning. I enjoy seizing the best opportunities to grow and always strive to be a positive influence in my life and those around me.
 
-Here are some ideas to get you started:
+**Skills:**  
+- Frontend Web Development (HTML, CSS, Tailwind, Bootstrap)
+- UI/UX Design (Figma)
+- Presentation Tools (ProPresenter)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interests:**  
+- Basketball
+- Figma Designs
+- Vacations
+- Riding
+
+I'm always eager to learn new things, embrace challenges, and make the most of every experience!
