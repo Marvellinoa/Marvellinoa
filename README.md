@@ -17,7 +17,7 @@ I'm always eager to learn new things, embrace challenges, and grow as a person &
 ---
 
 ## 🛠️ Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
