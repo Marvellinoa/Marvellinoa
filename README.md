@@ -30,11 +30,15 @@ I'm always eager to learn new things, embrace challenges, and grow as a person &
 
 ---
 
-## 🎯 Interests
-- 🏀 Basketball  
-- 🧠 Designing with Figma  
-- 🌴 Vacations  
-- 🏍️ Riding  
+## 🎯 My Interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Basketball-FCC624?style=for-the-badge&logo=sports&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma_Designs-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vacations-00C897?style=for-the-badge&logo=airbnb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Riding-5865F2?style=for-the-badge&logo=motorcycle&logoColor=white" />
+</p>
+
 
 ---
 
